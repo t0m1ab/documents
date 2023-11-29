@@ -1,2 +1,5 @@
-# documents
-Miscellaneous documents created by Tom Labiausse
+# Documents
+
+**Author:** Tom LABIAUSSE
+
+* Resume
